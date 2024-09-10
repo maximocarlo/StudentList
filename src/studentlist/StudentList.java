@@ -15,7 +15,7 @@ public class StudentList {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Student[] studentList = new Student[5]; //change size before running
+        Student[] studentList = new Student[10]; //change size before running
         Student s1 = new Student("Alice");
         Student s2 = new Student();
         s2.setName("Bob");
