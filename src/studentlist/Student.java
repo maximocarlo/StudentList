@@ -10,9 +10,9 @@ package studentlist;
  */
 public class Student {
     private String name;
-    private String studentID;
+    private static int studentID;
     private String address;
-
+    
     public Student() {}
     public Student(String name) {
         this.name = name;
