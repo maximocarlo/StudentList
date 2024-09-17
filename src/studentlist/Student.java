@@ -6,7 +6,7 @@ package studentlist;
 
 /**
  *
- * @author fagun at 17/09/2024
+ * @author fagun at 17/09/2024 mergetest
  */
 public class Student {
     private String name;
